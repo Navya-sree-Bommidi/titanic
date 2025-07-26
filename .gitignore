@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Data files (if you don’t want to upload them)
+*.csv
+*.xls
+*.xlsx
+
+# OS and IDE-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+*.env
+
+# Output plots or model files (optional)
+*.png
+*.jpg
+*.pkl
+*.h5
